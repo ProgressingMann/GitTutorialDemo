@@ -1,3 +1,4 @@
 This is Adam.
 Alrightie
 I am the best ML Algorithm! :D
+Yes I am better than RMSProp too.
