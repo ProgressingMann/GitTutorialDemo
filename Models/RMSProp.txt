@@ -1,1 +1,2 @@
 I was proposed on coursera.
+Root Mean Squared Propogation.
